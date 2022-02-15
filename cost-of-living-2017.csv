@@ -1,6 +1,5 @@
 City,State,Country,Cost of Living Plus Rent Index,CLI,Rent Index,Groceries Index,Restaurant Price Index,Local Purchasing Power Index,Leverage Model 1,Leverage Model 2,Rank
 Zurich,, Switzerland,108.77,149.53,66.76,163.71,140.58,126.3,0.042957244,0.041121403,1
-Hamilton,, Bermuda,133.2,148.13,117.8,145.2,152.54,93.42,0.077443088,0.041136657,2
 Zug,, Switzerland,105.54,142.54,67.39,148.36,143.18,105.62,0.03492821,0.034619091,3
 Geneva,, Switzerland,106.73,142.12,70.25,147.13,138.96,115.2,0.030242079,0.030231749,4
 Basel,, Switzerland,97.47,142.02,51.54,149.54,131.72,113.13,0.038061102,0.032146302,5
